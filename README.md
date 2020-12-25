@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# quran
-
 A new Flutter project.
 
 ## Getting Started
@@ -18,4 +15,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # flutter-alquran
 Mobile Application Al Quran With Flutter
->>>>>>> badf484e86e4b3c95ebcdba488d934e00a6560ae
